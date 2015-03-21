@@ -1,0 +1,1 @@
+This project uses real-time interrupts and increments a counter each time the interrupt service routine is called.  Based on the clock speed of the micro-controller, we can figure out how much time has elapsed.  In this way, a real-time clock is implemented and the result is printed out the serial port as well as to an LCD display.
